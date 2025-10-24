@@ -3,7 +3,7 @@ Title: "Intro To Chirpy Portfolio Website Template, First Try"
 Date: 24/10/2025
 Time: 1038 AM
 Categories: [Cybersecurity, Web]
-Tage: [xss, SQL-Injection, CSRF]
+Tage: [xss, SQL-Injection]
 ---
 
 Web vulnerabilities are a common entrypoint for attackers, in this post we will look at **SQL-Injection** and **OWASP** two of the OWASP top 10.

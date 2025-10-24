@@ -18,30 +18,29 @@ title: "Derrick Jesse Mokaya" # the main title
 
 tagline: "Security Analyst | Data Analyst" # it will display as the subtitle
 
-description:
-  A journey in InfoSec, AI, and Digital Forensics
+description: "A journey in InfoSec, AI, and Digital Forensics."
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://DerrickMokaya.github.io"
 
 github:
-  username: DerrickMokaya # change to your GitHub username
+  username: "DerrickMokaya" # change to your GitHub username
 
 twitter:
-  username: DerrickMok34241 # change to your Twitter username
+  username: "DerrickMok34241" # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Derrick Jesse Mokaya
-  email: derekmokaya@gmail.com # change to your email address
+  name: "Derrick Jesse Mokaya"
+  email: "derekmokaya@gmail.com" # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/DerrickMok34241 # change to your Twitter homepage
-    - https://github.com/DerrickMokaya # change to your GitHub homepage
+    - "https://twitter.com/DerrickMok34241" # change to your Twitter homepage
+    - "https://github.com/DerrickMokaya" # change to your GitHub homepage
     # Uncomment below to add more social links
     #- https://www.facebook.com/derrick.mokaya.655448
-    - https://www.linkedin.com/in/mokaya-d-a387601b4/
+    - "https://www.linkedin.com/in/mokaya-d-a387601b4"
 
 # Site Verification Settings
 webmaster_verifications:

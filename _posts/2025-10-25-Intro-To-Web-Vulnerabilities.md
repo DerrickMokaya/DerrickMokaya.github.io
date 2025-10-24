@@ -1,7 +1,6 @@
 ---
 Title: "Introduction To Web Vulnerabilities"
 Date: 24/10/2025
-Time: 1038 AM
 Categories: [Cybersecurity, Web]
 Tage: [xss, SQL-Injection]
 ---
